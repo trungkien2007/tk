@@ -321,14 +321,14 @@ image: "/assets/img/dapp.png"
     }
 </style>
 <section class="hero-section">
-    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Khoá học</div>
-    <h1>Ethereum DApp Development</h1>
-    <h3>Tự tin làm bất kỳ DApp nào cho các blockchain tương thích Ethereum</h3>
+    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Thầy</div>
+    <h1>Bá Phong</h1>
+    <h3>Học để tạo giá trị</h3>
     <div class="action-zone">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" class="main-button">ĐĂNG KÍ →</a>
+        <a href="https://www.facebook.com/baphong80" class="main-button">Facebook →</a>
     </div>
     <div>
-        Trao đổi: <a href="mailto:thi@trada.tech" target="_blank">Email</a> - <a href="https://t.me/mangcut" target="_blank">Telegram</a>
+        Trao đổi: <a href="mailto:baphong80@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
     </div>
 </section>
 
