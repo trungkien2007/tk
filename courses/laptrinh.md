@@ -322,8 +322,8 @@ image: "/assets/img/dapp.png"
 </style>
 <section class="hero-section">
     <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Khoá học</div>
-    <h1>Toán Tiếng Anh</h1>
-    <h3>Rèn luyện tư duy thực tiễn, kỹ năng ngôn ngữ hướng du học Mỹ</h3>
+    <h1>Lập trình chuyên nghiệp</h1>
+    <h3>Xây dựng ứng dụng Web và Di động với bộ 3 công cụ Html, Css, Javascript</h3>
     <div class="action-zone">
         <a href="https://www.facebook.com/baphong80" class="main-button">ĐĂNG KÍ →</a>
     </div>
