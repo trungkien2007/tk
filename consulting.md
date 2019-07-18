@@ -1,5 +1,5 @@
 ---
-title: Tư vấn dự án blockchain
+title: Tư vấn 
 permalink: "/consulting/"
 layout: default
 ---
