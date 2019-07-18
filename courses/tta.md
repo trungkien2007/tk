@@ -411,6 +411,6 @@ image: "/assets/img/dapp.png"
         <a href="https://www.facebook.com/baphong80" class="main-button">Facebook →</a>
     </div>
     <div>
-        Liên hệ:  <a href="https://t.me/mangcut" target="_blank">Telegram</a>
+        Liên hệ:  <a href="https://t.me/baphong" target="_blank">Telegram</a>
     </div>
 </div>
