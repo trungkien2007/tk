@@ -323,20 +323,15 @@ image: "/assets/img/dapp.png"
 <section class="hero-section">
     <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Thầy</div>
     <h1>Bá Phong</h1>
-    <h3>Học để tạo giá trị</h3>
+    <h3>Học để tạo giá trị, học để sống an lạc</h3>
     <div class="action-zone">
-        <a href="https://www.facebook.com/baphong80" class="main-button">Facebook →</a>
+        <a href="https://www.facebook.com/baphong80" class="main-button">ĐĂNG KÍ →</a>
     </div>
     <div>
-        Trao đổi: <a href="mailto:baphong80@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
+        Liên hệ: <a href="mailto:baphong80@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
     </div>
 </section>
 
-<!--
-<p style="margin-bottom:0"><i>Khoá học</i></p>
-## Ethereum DApp Development
-<p><a href="mailto:thi@trada.tech" target="_blank">Email</a> - <a href="https://t.me/mangcut" target="_blank">Telegram</a> - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" target="_blank">Đăng kí</a></p>
--->
 
 <style>
     .key-info {
@@ -371,167 +366,46 @@ image: "/assets/img/dapp.png"
         margin-left: -1em; /* Also needed for space (tweak if needed) */
     }
 </style>
-<ul class="key-info">
-    <li>5 tuần</li>
-    <li>2 buổi/tuần</li>
-    <li>2 tiếng/buổi</li>
-    <li>Học ngoài giờ</li>
-</ul>
+
 
 <br><br>
 
 <div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Đầu ra là 1 DApp hoàn thiện</h2>
+    <h2 class="section-title">Sơ lược về thầy Bá Phong</h2>
     <ul>
-        <li>Chủ đề của DApp theo đề xuất của học viên (mạng xã hội, chat app, game, v.v.)</li>
-        <li>Hệ thống smart contract viết bằng Solidity</li>
-        <li>Có phát hành token riêng</li>
-        <li>Tích hợp uPort để quản lý danh tính</li>
-        <li>Tích hợp IPFS để lưu photo</li>
-        <li>Client tích hợp MetaMask, Web3 JS</li>
-        <li>Phát triển, debug, và test bằng Truffle và Ganache</li>
+        <p>Thầy Bá Phong có bằng Thạc sỹ Toán, Cử nhân CNTT và Cử Nhân tiếng Anh</p>
+        <p>Thầy có gần 2 năm học chương trình tiến sỹ tại đại học Blaise Pascal, Pháp</p>
+        <p>Thầy có hơn 10 năm kinh nghiệm giảng dạy tại Trường chuyên THPT và trường Đại học</p>
+        <p>Thầy có hơn 5 năm kinh nghiệm làm việc tại 2 tập đoàn của Úc và Singapore</p>
+        <p>Thầy đã dành ra hàng chục năm nghiên cứu và trải nghiệm về giáo dục, về quá trình học và dạy </p>
     </ul>
 </div>
 
 <div class="blog-section">
-    <h2 class="section-title">Sau khoá học bạn sẽ</h2>
+    <h2 class="section-title">10 khác biệt khi học với thầy Bá Phong</h2>
     <ul>
-        <li>Hiểu bản chất, cơ chế hoạt động, xu hướng sắp tới của blockchain</li>
-        <li>Nắm được ưu điểm, bất cập, các ứng dụng phù hợp với blockchain</li>
-        <li>Tự tin viết smart contract bằng Solidity</li>
-        <li>Thực hành Web3 JS, tích hợp IPFS, uPort</li>
-        <li>Thạo tool: MetaMask, EthFiddle, Remix, Truffle, Ganache</li>
-        <li>Có kiến thức về coding an toàn và tối ưu phí giao dịch</li>
-        <li>Có trải nghiệm để cân nhắc mức độ áp dụng blockchain hợp lý</li>
-        <li>Có căn bản để tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học</li>
-        <li>Tự tin thảo luận giải pháp cho bài toán mới</li>
+        <li>Không có vở ghi, vở nháp, không ghi bài, không có bút bi, bút mực, chỉ mang theo bút chì và tẩy.</li>
+        <li>Không có bài tập về nhà, nhưng về nhà phải giảng lại bài đã học cho bố mẹ nghe và quay clip gửi thầy.</li>
+        <li>Phương pháp học: tương tác, tranh biện, luyện tự duy.</li>
+        <li>Giải lao được ngồi Thiền 10 phút hoặc xem clip Tiếng Anh, du học Mỹ. </li>
+        <li>Toilet khép kín, sạch như ks 5 sao (HS bảo thế). </li>
+        <li>Học thử 2 buổi, thấy phù hợp thì học lâu dài, chưa phù hợp thì nghỉ không đóng học phí.</li>
+        <li>Thầy không kiểm tra đánh giá, các kỳ thi Toán Tiếng Anh quốc tế sẽ đánh giá cả thầy và trò.</li>
+        <li>Học tốt, thi tốt thì đươc đi Singapore miễn phí vào dịp hè. </li>
+        <li>Học Việt Nam nhưng đạt chuẩn Mỹ, có thể du học Mỹ ở bất kỳ cấp học nào. </li>
+        <li>Giảm 50% học phí cho gia đình có hoàn cảnh khó khăn, mẹ đơn thân, gà trống nuôi con.</li>
     </ul>
-    <p><i>Dĩ nhiên, bạn phải rèn luyện và làm thêm nhiều dự án thực để rèn sắc kỹ năng của mình. Các giảng viên của Trada Academy luôn sẵn sàng trả lời câu hỏi và đồng hành trong suốt quãng thời gian sau này.</i></p>
+    
 </div>
 
-<section class="features-section">	
-    <h2 class="section-title">Giảng viên</h2>
-    <div class="features-wrapper">
-        <div class="feature-row">
-            <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/thi.jpg)">
-                    <h5>Thi măng cụt</h5>
-                </div>
-                <div class="text">
-                    <p>Founder of Trada Tech, former manager and blockchain trainer of Kyber Network.</p>
-                </div>
-            </div>
-            <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/andrew.jpg)">
-                    <h5>Andrew Nguyen</h5>
-                </div>
-                <div class="text">
-                    <p>Technical Manager of Kyber Network, technical lead of KyberSwap.</p>
-                </div>
-            </div>
-            <div class="feature-card portrait">
-                <div class="image" style="background-image:url('http://en.sotatek.com/wp-content/themes/sotatek/images/network_effect/an.png')">
-                    <h5>Andy Nguyen</h5>
-                </div>
-                <div class="text">
-                    <p>Co-founder and Blockchain lead of Sotatek.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
-<div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Học phí</h2>
-    <ul>
-        <li>10 triệu/học viên</li>
-        <li>Giảm 10% nếu đăng kí trước 1 tuần</li>
-        <li>Giảm thêm 20% cho công ty hoặc nhóm từ 3 người trở lên</li>
-        <li>Lớp riêng cho công ty: 50 triệu/lớp (tối đa 10 người)</li>
-    </ul>
-</div>
-
-<div class="blog-section">
-    <h2 class="section-title">Yêu cầu với học viên</h2>
-    <ul>
-        <li>Đã lập trình tự tin với 1 ngôn ngữ/công nghệ bất kì</li>
-        <li>Có hứng thú học về blockchain</li>
-        <li>Có thái độ học tập nghiêm túc</li>
-    </ul>
-    <p>Học viên cần đi học đều và hỏi nhiều. Làm bài tập về nhà. Khoá học ít dùng slide mà dựa vào giảng giải trực tiếp và live code, nên bạn cần tham gia sâu vào quá trình học chứ không trông đợi đọc slide.</p>
-</div>
-
-<div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Lịch học cụ thể</h2>
-    <p>Học trong 10 buổi, từ 7pm~9pm hoặc cuối tuần (tuỳ khoá).</p>
-    <h3>Buổi 1: Lý thuyết Blockchain và Ethereum</h3>
-    <ul>
-        <li>Tại sao cần blockchain</li>
-        <li>Nó hoạt động thế nào</li>
-        <li>Ưu nhược điểm</li>
-        <li>Use cases</li>
-        <li>Các vấn đề cần giải quyết</li>
-        <li>Cơ chế hoạt động của Ethereum</li>
-    </ul>
-    <h3>Buổi 2: Live code & Thực hành</h3>
-    <ul>
-        <li>Tạo 1 blockchain từ đầu bằng JavaScript</li>
-    </ul>
-    <h3>Buổi 3: Solidity cơ bản - thực hành trên EthFiddle</h3>
-    <ul>
-        <li>Contract</li>
-        <li>Types and Variables</li>
-        <li>Struct & Array</li>
-        <li>Function</li>
-        <li>Modifier</li>
-        <li>Control flow</li>
-        <li>Tương tác: tạo 1 Zombie!</li>
-    </ul>
-    <h3>Buổi 4: Remix & Web3 JS</h3>
-    <ul>
-        <li>Tạo, debug, và test contract bằng Remix</li>
-        <li>Dùng Web3 JS để tương tác với contract vừa tạo</li>
-    </ul>
-    <h3>Buổi 5: Truffle và Zeppelin</h3>
-    <ul>
-        <li>Cài đặt và sử dụng Truffle</li>
-        <li>Giới thiệu về các thư viện Zeppelin</li>
-        <li>Tạo 1 token contract</li>
-    </ul>
-    <h3>Buổi 6: Token sale</h3>
-    <ul>
-        <li>Tạo token sale contract bằng truffle</li>
-        <li>Viết front-end token sale dùng Web3 JS</li>
-    </ul>
-    <h3>Buổi 7: Làm dự án phần 1</h3>
-    <ul>
-        <li>Chia team</li>
-        <li>Bầu chọn sản phẩm sẽ làm</li>
-        <li>Làm sản phẩm buổi 1</li>
-    </ul>
-    <h3>Buổi 8: Làm dự án phần 2</h3>
-    <ul>
-        <li>Các bài học về security</li>
-        <li>Làm sản phẩm buổi 2</li>
-    </ul>
-    <h3>Buổi 9: Làm dự án phần 3</h3>
-    <ul>
-        <li>Các tips về tiết kiệm gas</li>
-        <li>Làm sản phẩm buổi 3</li>
-    </ul>
-    <h3>Buổi 10: Hoàn thiện sản phẩm</h3>
-    <ul>
-        <li>Review hoàn thiện sản phẩm</li>
-        <li>Trình bày và đánh giá</li>
-    </ul>
-</div>
 
 <div class="hero-section">
     <h2 class="section-title">Đăng kí</h2>
     <div class="action-zone">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" class="main-button">Google Form →</a>
+        <a href="https://www.facebook.com/baphong80" class="main-button">Facebook →</a>
     </div>
     <div>
-        Trao đổi: <a href="mailto:thi@trada.tech" target="_blank">Email</a> - <a href="https://t.me/mangcut" target="_blank">Telegram</a>
+        Liên hệ:  <a href="https://t.me/mangcut" target="_blank">Telegram</a>
     </div>
 </div>
