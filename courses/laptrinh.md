@@ -371,7 +371,7 @@ image: "/assets/img/dapp.png"
 <br><br>
 
 <div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Khóa học 10 buổi Lập trình Web và Di động với HTML5, CSS3, JAVASCRIPT.</h2>
+    <h2 class="section-title">Giới thiệu chung</h2>
     <p>Đây là các công cụ lập trình hiện đại và đang được sử dụng phổ biến nhất trên thế giới.</p>
     <p>Khai thác, tự học và phát triển các kỹ năng sử dụng các công cụ này, 
     người học có thể tham gia luôn vào thị trường lao động Lập trình viên (Developer)
