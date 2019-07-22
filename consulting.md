@@ -9,8 +9,7 @@ layout: default
 
 1. Nghiện game chính là một loại bệnh tâm thần 
 2. game đã đem lại cho ta những lợi ích không mấy tốt đẹp
-3. Xây dựng và phát triển thương hiệu doanh nghiệp
-4. Các thể loại game như: PUPG, free fire,... các bạn không nên chơi thường xuyên
+3. Các thể loại game như: PUPG, free fire,... các bạn không nên chơi thường xuyên
 
 ## Đây là những lời khuyên từ mình dành cho các bạn:
 
