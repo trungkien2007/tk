@@ -321,14 +321,14 @@ image: "/assets/img/dapp.png"
     }
 </style>
 <section class="hero-section">
-    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Thầy</div>
-    <h1>Bá Phong</h1>
+    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Mình là</div>
+    <h1>Trung Kiên Nguyễn</h1>
     <h3>Học để tạo giá trị, học để sống an lạc</h3>
     <div class="action-zone">
-        <a href="https://www.facebook.com/baphong80" class="main-button">ĐĂNG KÍ →</a>
+        <a href="https://www.facebook.com/kienbill.trung.7" class="main-button">TÌM HIỂU THÊM VỀ MÌNH →</a>
     </div>
     <div>
-        Liên hệ: <a href="mailto:baphong80@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
+        Liên hệ: <a href="mailto:binbon0104@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
     </div>
 </section>
 
@@ -371,39 +371,31 @@ image: "/assets/img/dapp.png"
 <br><br>
 
 <div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Sơ lược về thầy Bá Phong</h2>
+    <h2 class="section-title">Sơ lược về mình</h2>
     <ul>
-        <p>Thầy Bá Phong có bằng Thạc sỹ Toán, Cử nhân CNTT và Cử Nhân tiếng Anh</p>
-        <p>Thầy có gần 2 năm học chương trình tiến sỹ tại đại học Blaise Pascal, Pháp</p>
-        <p>Thầy có hơn 10 năm kinh nghiệm giảng dạy tại Trường chuyên THPT và trường Đại học</p>
-        <p>Thầy có hơn 5 năm kinh nghiệm làm việc tại 2 tập đoàn của Úc và Singapore</p>
-        <p>Thầy đã dành ra hàng chục năm nghiên cứu và trải nghiệm về giáo dục, về quá trình học và dạy </p>
+        <p>Mình năm nay 13 tuổi, học tập và sinh sống tại Nghệ An</p>
+        <p>Mình học trường THCS Đặng Thai Mai</p>
+        <p>Mình có huy chương đồng về giải toán tiếng anh của AMO</p>
+        <p>Mình đạt giải nhì của kì thi tin học trẻ cấp tỉnh</p>
+        
     </ul>
 </div>
 
 <div class="blog-section">
-    <h2 class="section-title">10 khác biệt khi học với thầy Bá Phong</h2>
+    <h2 class="section-title">10 khác biệt khi mình học bài</h2>
     <ul>
         <li>Không có vở ghi, vở nháp, không ghi bài, không có bút bi, bút mực, chỉ mang theo bút chì và tẩy.</li>
-        <li>Không có bài tập về nhà, nhưng về nhà phải giảng lại bài đã học cho bố mẹ nghe và quay clip gửi thầy.</li>
+        <li>Không có bài tập về nhà, nhưng về nhà mình sẽ giảng lại bài đã học cho bố mẹ nghe và quay clip gửi thầy.</li>
         <li>Phương pháp học: tương tác, tranh biện, luyện tự duy.</li>
-        <li>Giải lao được ngồi Thiền 10 phút hoặc xem clip Tiếng Anh, du học Mỹ. </li>
-        <li>Toilet khép kín, sạch như ks 5 sao (HS bảo thế). </li>
-        <li>Học thử 2 buổi, thấy phù hợp thì học lâu dài, chưa phù hợp thì nghỉ không đóng học phí.</li>
-        <li>Thầy không kiểm tra đánh giá, các kỳ thi Toán Tiếng Anh quốc tế sẽ đánh giá cả thầy và trò.</li>
-        <li>Học tốt, thi tốt thì đươc đi Singapore miễn phí vào dịp hè. </li>
-        <li>Học Việt Nam nhưng đạt chuẩn Mỹ, có thể du học Mỹ ở bất kỳ cấp học nào. </li>
-        <li>Giảm 50% học phí cho gia đình có hoàn cảnh khó khăn, mẹ đơn thân, gà trống nuôi con.</li>
-    </ul>
+        <li>Giải lao mình ngồi Thiền 10 phút hoặc xem clip Tiếng Anh, du học Mỹ. </li>
+
     
-</div>
+    </div>
 
-
-
-<div class="hero-section">
-    <h2 class="section-title">Đăng kí</h2>
+ <div class="hero-section">
+    <h2 class="section-title">Tìm hiểu thêm</h2>
     <div class="action-zone">
-        <a href="https://www.facebook.com/baphong80" class="main-button">Facebook →</a>
+        <a href="https://www.facebook.com/kienbill.trung.7" class="main-button">Facebook →</a>
     </div>
     <div>
         Liên hệ:  <a href="https://t.me/mangcut" target="_blank">Telegram</a>
