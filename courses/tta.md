@@ -1,5 +1,5 @@
 ---
-title: Các lớp Toán Tiếng Anh
+title: Các vấn đề nan giải của giới trẻ
 layout: default
 image: "/assets/img/dapp.png"
 ---
@@ -321,14 +321,14 @@ image: "/assets/img/dapp.png"
     }
 </style>
 <section class="hero-section">
-    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Khoá học</div>
-    <h1>Toán Tiếng Anh</h1>
-    <h3>Rèn luyện tư duy thực tiễn, kỹ năng ngôn ngữ hướng du học Mỹ</h3>
+    <div style="text-align: center;font-size:0.9rem;color:#333;font-weight:300">Các vấn đề</div>
+    <h1>HẾT SỨC NAN GIẢI</h1>
+    <h3>của giới trẻ hiện nay</h3>
     <div class="action-zone">
-        <a href="https://www.facebook.com/baphong80" class="main-button">ĐĂNG KÍ →</a>
+        <a href="https://www.facebook.com/baphong80" class="main-button">TÌM HIỂU THÊM →</a>
     </div>
     <div>
-        Liên hệ: <a href="mailto:baphong80@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
+        Liên hệ: <a href="mailto:binbon0104@gmail.com" target="_blank">Email</a> - <a href="https://t.me/baphong" target="_blank">Telegram</a>
     </div>
 </section>
 
@@ -371,7 +371,7 @@ image: "/assets/img/dapp.png"
 <br><br>
 
 <div class="blog-section" style="background:#eee">
-    <h2 class="section-title">Lịch học</h2>
+    <h2 class="section-title">Các vấn đề nan giải như sau:</h2>
     <ul>
         <li>Lớp 1 lên 2, 2 lên 3: Thứ Tư, 17h30-19h15.</li>
         <li>Lớp 1 lên 2, 2 lên 3: Thứ Năm, 17h30-19h15.</li>
