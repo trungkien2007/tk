@@ -1,19 +1,24 @@
 ---
-title: Tư vấn
+title: Giải trí
 permalink: "/consulting/"
 layout: default
 ---
 
-## Thầy Bá Phong có hiểu biết, kinh nghiệm về những lĩnh vực sau để có thể tư vấn chuyên sâu:
+## Mình không có hiểu biết nhiều về Game, nhưng theo mình
 <p> </p>
 
-1. Thiết lập ước mơ, mục tiêu, hướng nghiệp cho học sinh 
-2. Xây dựng và phát triển thương hiệu cá nhân
+1. Nghiện game chính là một loại bệnh tâm thần 
+2. game đã đem lại cho ta những lợi ích không mấy tốt đẹp
 3. Xây dựng và phát triển thương hiệu doanh nghiệp
-4. Các hoạt động nghiên cứu thị trường, truyền thông, marketing
-5. Tư vấn về thấu hiểu lộ trình tâm của khách hàng
+4. Các thể loại game như: PUPG, free fire,... các bạn không nên chơi thường xuyên
 
-### Liên hệ:
+## Đây là những lời khuyên từ mình dành cho các bạn:
 
-- Email: <a href="mailto:baphong80@gmail.com" target="_blank">baphong80@gmail.com</a>
-- Telegram: <a href="https://t.me/baphong" target="_blank">@baphong</a>
+1. Các bạn nên chơi các thể loại game động não hoặc game não nhanh hơn tay
+2. Thể loại game não nhanh hơn tay khi chơi, ta vẫn làm chủ được bản thân mình và ít gây nghiện
+3. Còn: nếu chơi các loại game tay nhanh hơn não như: PUBG, free fire, ... thì bạn sẽ mất kiểm soát và bạn sẽ bị nghiện
+
+
+### Tìm hiểu thêm:
+
+- Email: <a href="mailto:binbon0104@gmail.com" target="_blank">binbon0104@gmail.com</a>
