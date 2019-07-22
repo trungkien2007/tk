@@ -379,6 +379,8 @@ image: "/assets/img/dapp.png"
         <p>Mình đạt giải nhì của kì thi tin học trẻ cấp tỉnh</p>
         
     </ul>
+
+
 </div>
 
 <div class="blog-section">
