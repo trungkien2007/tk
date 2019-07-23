@@ -386,11 +386,11 @@ Một số học sinh, sinh viên mặc dù là những con mọt sách nhưng l
 Bệnh vô cảm có những tác hại thật ghê gớm, nó không chỉ làm suy giảm đạo đức của một cá nhân mà còn đẩy đất nước đến bờ tụt hậu, suy thoái. Hãy thử tưởng tượng nếu đa số thế hệ trẻ có thái độ vô cảm thì tương lai của đất nước sẽ đi về đâu? Rường cột nước nhà sẽ ra sao, nếu không nói là đã mục nát ngay từ trong trứng nước? Quả thật, đó là một mối họa vô cùng lớn cho xã hội!</li>
         
     
-</div>
+
 
 <div class="blog-section">
     
-    </ul>
+   
     
 </div>
 
