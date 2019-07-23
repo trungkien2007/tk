@@ -384,13 +384,7 @@ image: "/assets/img/dapp.png"
 </div>
 
 <div class="blog-section">
-    <h2 class="section-title">10 khác biệt khi mình học bài</h2>
-    <ul>
-        <li>Không có vở ghi, vở nháp, không ghi bài, không có bút bi, bút mực, chỉ mang theo bút chì và tẩy.</li>
-        <li>Không có bài tập về nhà, nhưng về nhà mình sẽ giảng lại bài đã học cho bố mẹ nghe và quay clip gửi thầy.</li>
-        <li>Phương pháp học: tương tác, tranh biện, luyện tự duy.</li>
-        <li>Giải lao mình ngồi Thiền 10 phút hoặc xem clip Tiếng Anh, du học Mỹ. </li>
-
+   
     
     </div>
 
