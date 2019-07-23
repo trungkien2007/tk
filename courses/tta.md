@@ -373,32 +373,15 @@ image: "/assets/img/dapp.png"
 <div class="blog-section" style="background:#eee">
     <h2 class="section-title">Các vấn đề nan giải như sau:</h2>
     <ul>
-        <li>Lớp 1 lên 2, 2 lên 3: Thứ Tư, 17h30-19h15.</li>
-        <li>Lớp 1 lên 2, 2 lên 3: Thứ Năm, 17h30-19h15.</li>
-        <li>Lớp 1 lên 2, 2 lên 3: Thứ Sáu, 17h30-19h15,</li>
-        <li>Lớp 3 lên 4, 4 lên 5: Thứ Hai, 17h30-19h15,</li>
-        <li>Lớp 3 lên 4, 4 lên 5: Thứ Ba, 17h30-19h15,</li>
-        <li>Lớp 5 lên 6, 6 lên 7: Thứ Hai, 19h30-21h15</li>
-        <li>Lớp 5 lên 6, 6 lên 7: Thứ Năm, 19h30-21h15</li>
-        <li>Lớp 7 lên 8, 8 lên 9: Thứ Ba, 19h30-21h15</li>
-        <li>Lớp 7 lên 8, 8 lên 9: Thứ Tư, 19h30-21h15</li>
-        <li>Lớp 10, 11, 12: Thứ Sáu, 19h30-21h15</li>
+        <li>Thích chạy theo giá trị ảo.</li>
+        <li>khả năng tư duy độc lập hạn chế.</li>
+        <li>Bệnh vô cảm</li>
+        
     </ul>
 </div>
 
 <div class="blog-section">
-    <h2 class="section-title">10 khác biệt khi học với thầy Bá Phong</h2>
-    <ul>
-        <li>Không có vở ghi, vở nháp, không ghi bài, không có bút bi, bút mực, chỉ mang theo bút chì và tẩy.</li>
-        <li>Không có bài tập về nhà, nhưng về nhà phải giảng lại bài đã học cho bố mẹ nghe và quay clip gửi thầy.</li>
-        <li>Phương pháp học: tương tác, tranh biện, luyện tự duy.</li>
-        <li>Giải lao được ngồi Thiền 10 phút hoặc xem clip Tiếng Anh, du học Mỹ. </li>
-        <li>Toilet khép kín, sạch như ks 5 sao (HS bảo thế). </li>
-        <li>Học thử 2 buổi, thấy phù hợp thì học lâu dài, chưa phù hợp thì nghỉ không đóng học phí.</li>
-        <li>Thầy không kiểm tra đánh giá, các kỳ thi Toán Tiếng Anh quốc tế sẽ đánh giá cả thầy và trò.</li>
-        <li>Học tốt, thi tốt thì đươc đi Singapore miễn phí vào dịp hè. </li>
-        <li>Học Việt Nam nhưng đạt chuẩn Mỹ, có thể du học Mỹ ở bất kỳ cấp học nào. </li>
-        <li>Giảm 50% học phí cho gia đình có hoàn cảnh khó khăn, mẹ đơn thân, gà trống nuôi con.</li>
+    
     </ul>
     
 </div>
