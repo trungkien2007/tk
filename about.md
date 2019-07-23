@@ -1,7 +1,7 @@
 ---
 title: Giới thiệu
 layout: default
-image: "/assets/img/tk/dapp.png"
+image: "/assets/img/dapp.png"
 ---
 
 <style>
