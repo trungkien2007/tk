@@ -1,6 +1,6 @@
-# trungkien.com
+# terrykien.com
 
-This is source for www.trungkien.com
+This is source for www.terrykien.com
 
 ```
 bundle exec jekyll serve
