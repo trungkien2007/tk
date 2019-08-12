@@ -7,7 +7,7 @@ canvas {
 }
 </style>
 
-<div onload="startGame()">
+<body onload="startGame()">
 <script>
 
 var myGamePiece;
@@ -131,5 +131,5 @@ function accelerate(n) {
 <button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">NHẢY</button>
 <p>Nhấn nút nhảy để cân bằng </p>
 <p>bạn giữ đương khối vuông bao nhiêu thời gian?</p>
-</div>
+</body>
 
