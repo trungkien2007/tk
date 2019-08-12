@@ -1,5 +1,5 @@
 
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
@@ -134,4 +134,4 @@ function accelerate(n) {
 <p>Nhấn nút nhảy để cân bằng </p>
 <p>bạn giữ đương khối vuông bao nhiêu thời gian?</p>
 </body>
-</html>
+
