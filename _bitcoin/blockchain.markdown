@@ -13,11 +13,11 @@ Một file dữ liệu chia sẻ ( dùng chung ) chứa các giao dịch Bitcoin
 
 Blockchain ( ở đây chỉ đề cập đến định nghĩa hẹn blockchain cho bitcoin nói riêng ) là một file chứa danh sách tất cả các transaction về bitcoin đã được tạo ra.
 
-![01-blockchain_file.png](/uploads/01-blockchain_file.png)
+![01-blockchain_file.png](/tk/uploads/01-blockchain_file.png)
 
 Mọi người trên Bitcoin Network đều sở hữu một bản sao ( a copy ) của file này và thường xuyên cập nhật các transaction mới nhất vào file mà mình đang nắm giữ.
 
-![02-bitcoin_network.png](/uploads/02-bitcoin_network.png)
+![02-bitcoin_network.png](/tk/uploads/02-bitcoin_network.png)
 
 **Tại sao blockchain lại quan trọng?**
 
@@ -31,7 +31,7 @@ Vì blockchain là file chứa danh sách đầy đủ các giao dịch bitcoin 
 
 Bởi vì các transaction không được thêm vào file một cách riêng lẻ rời rạc mà chúng được bó lại với nhau và thêm vào block. Hơn nữa các block này lại được nối với nhau ( linked ) . Bất cứ thay đổi nào ở các block phía trước ( được tạo ra trước ) sẽ gây ra thay đổi ở các block phía sau nó. Trong hình ảnh dưới đây các block tạo ra trước sẽ nằm ở phía dưới, các block tạo ra sau nằm ở trên.
 
-![03-blocks_chains.png](/uploads/03-blocks_chains.png)
+![03-blocks_chains.png](/tk/uploads/03-blocks_chains.png)
 
 Việc block-ing ( tổ chức các lữu trữ giao dịch theo cấu trúc từng block một ) giúp cho việc chia sẻ bản sao của file blockchain trở nên dễ dàng hơn. Với tốc độ Internet hiện có thì chia sẻ ( dùng chung ) một file với tần suất cập nhật khoảng 10 phút một lần sẽ dễ dàng hơn nhiều so với một file có tần suất cập nhật nhiều lần trong một giây. Con số 10 phút sẽ được giải thích tiếp ở bài sau.
 
@@ -41,7 +41,7 @@ Việc xâu chuối các khối ( block ) lại với nhau là một tính năng
 
 File blockchain được chia sẻ bởi các node trên Bitcoin Network giống như các video không có bản quyền được chia sẻ qua mạng ngang hàng ( Peer to Peer-P2P) BitTorrent.
 
-![04-blocks_sharing.png](/uploads/04-blocks_sharing.png)
+![04-blocks_sharing.png](/tk/uploads/04-blocks_sharing.png)
 
 Các bạn có thể đọc thêm các tài liệu về việc chia sẻ file ngang hàng P2P để hiểu thêm về cơ chế blockchain chia sẻ file ngang hàng trên Bitcoin network.
 

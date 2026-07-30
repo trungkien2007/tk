@@ -296,7 +296,7 @@ Khi tôi nói vậy, có điều gì đó nảy ra trong đầu bạn không?
 
 ### Điều gì xảy ra nếu, thay vì 1, mà là 6 người trong mạng cùng trở nên không trung thực?
 
-Trong trường hợp này, những người khác không còn có thể tin vào hệ thống nữa. Nếu tiếp tục tham gia, họ có khả năng bị mất tiền. Vấn đề này được gọi là [51% Attack](/blog/2018/11/26/tan-cong-51-la-gi.html). Nếu phần lớn các thành viên trong mạng quyết định gian lận để lừa dối những người còn lại, hệ thống sẽ không còn bảo vệ được các thành viên trung thực.
+Trong trường hợp này, những người khác không còn có thể tin vào hệ thống nữa. Nếu tiếp tục tham gia, họ có khả năng bị mất tiền. Vấn đề này được gọi là [51% Attack](/tk/blog/2018/11/26/tan-cong-51-la-gi.html). Nếu phần lớn các thành viên trong mạng quyết định gian lận để lừa dối những người còn lại, hệ thống sẽ không còn bảo vệ được các thành viên trung thực.
 
 Và đó là lý do duy nhất để Blockchain có thể sụp đổ, nếu có lúc nào đó nó sụp đổ. Có thể chúng ta tin tưởng rằng điều này khó có thể xảy ra, nhưng dù sao vẫn cần phải biết điểm yếu của hệ thống. Blockchain được xây dựng trên giả định rằng đa số đám đông luôn luôn là trung thực.
 

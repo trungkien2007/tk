@@ -9,7 +9,7 @@ layout: post
 
 # `Những máy tính chạy chương trình bitcoin`
 
-![05-nodes_network.png](/uploads/05-nodes_network.png)
+![05-nodes_network.png](/tk/uploads/05-nodes_network.png)
 
 Một Node đơn giản chỉ là **một máy tính chạy chương trình Bitcoin**. Nhưng nó không chạy đơn lẻ một mình mà được kết nối với các máy tính khác ( cũng là nodes ) để tạo thành một mạng blockchain ( Network ).
 
@@ -27,7 +27,7 @@ Một node sẽ có 3 công việc
 
 Mỗi node ( bitcoin client ) được lập trình để tuân theo một loạt các luật ( rule ).  Bằng cách tuân thủ các luật này thì một node có thể kiểm tra được các giao dịch và chỉ chuyển tiếp ( relay ) nếu mọi thứ ok. Còn nếu gặp bất cứ vấn đề gì thì giao dịch sẽ bị bỏ qua
 
-![01-node_rules.png](/uploads/01-node_rules.png)
+![01-node_rules.png](/tk/uploads/01-node_rules.png)
 
 Ví dụ có 1 rule là một người phải sở hữu một lượng bitcoin bằng hoặc lớn hơn số lượng bitcoin mà họ muốn chuyển đi cho người khác. Nếu như node của bạn nhận được một transaction mà ai đó cố gắng chuyển đi số lượng bitcoin lớn hơn số mà họ có thì transcation này tính là không hợp lệ và không được chuyển đi cho các node khác xử lý tiếp.
 
@@ -41,7 +41,7 @@ Có 2 loại giao dịch mà các node chia sẻ
 
 2\. Các giao dịch đã được xác nhận ( confirmed transaction ): là các giao dịch vừa mới được xác nhận và viết vào file. Các giao dịch này sẽ được chia sẻ trong các *blocks*  ( chứa một tập các transaction ) một cách công khai.
 
-![01-node_transaction_type_sharing.png](/uploads/01-node_transaction_type_sharing.png)
+![01-node_transaction_type_sharing.png](/tk/uploads/01-node_transaction_type_sharing.png)
 
 Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 loại transactions này, chúng sẽ được làm rõ trong các bài viết về Mining và  Blocks sau.
 
@@ -49,7 +49,7 @@ Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 
 
 Như đã đề cập ở trên mỗi Node sẽ giữ một chuỗi các blocks ghi các transaction. Chúng sẽ được tổ chức trong cùng 1 file gọi là blockchain.
 
-![02-node_blockchain.png](/uploads/02-node_blockchain.png)
+![02-node_blockchain.png](/tk/uploads/02-node_blockchain.png)
 
 Các transaction mới sẽ được đi loanh quanh trên mạng ( bitcoin network ) cho đến khi chúng được khắc vào blockchain, đối với mạng bitcoin thì blockchain của bitcoin về bản chất là một sổ cái lưu lại các giao dịch chuyển bitcoin đã được xác nhận ( confirmed ) giữa các tài khoản.
 
@@ -65,7 +65,7 @@ Mỗi Node có một bản copy của blockchain để đảm bảo an toàn cho
 
 Câu trả lời là KHÔNG. Bạn có thể gửi và nhận bitcoin mà không cần phải sở hữu node mạng, bạn chỉ cần một địa chỉ trên blockchain và gửi transaction của mình lên bitcoin network và nó sẽ xử lý giúp bạn
 
-![03-nodes_network_insert_transaction.png](/uploads/03-nodes_network_insert_transaction.png)
+![03-nodes_network_insert_transaction.png](/tk/uploads/03-nodes_network_insert_transaction.png)
 
 Ví dụ bạn có sử dụng một cái ví trên web ( web wallet ) bạn có thể thao tác trên ví này để tạo ra một transaction trên mạng lưới ( bitcoin network ).
 
