@@ -34,7 +34,7 @@ Năng lực lưu trữ và xử lý của các hệ thống blockchain chủ ch�
 </div>
 
 <div class="media">
-  <img src="/assets/img/problemWanted.jpg">
+  <img src="/tk/assets/img/problemWanted.jpg">
   <p class="caption">Blockchain có phải là 1 giải pháp đang đi tìm vấn đề?</p>
 </div>
 

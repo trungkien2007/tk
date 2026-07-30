@@ -1,7 +1,7 @@
 ---
 title: Tấn công 51% là gì?
 date: 2018-11-26 07:00:00 +07:00
-image: "/assets/img/hashrate.jpg"
+image: "/tk/assets/img/hashrate.jpg"
 excerpt: 51% của cái gì và gây hại như thế nào.
 ---
 
@@ -28,7 +28,7 @@ Tổng số lượng giá trị hash mà toàn bộ mạng lưới máy đào t�
 Chiếm 51% tức là chiếm 51% hash rate. Đồng nghĩa, về mặt _xác xuất_, có 51% khả năng chiến thắng ở mỗi vòng thi.
 
 <div class="media">
-  <img src="/assets/img/hashrate.jpg">
+  <img src="/tk/assets/img/hashrate.jpg">
   <p class="caption">Thị phần hash rate giữa các xưởng đào lớn trong 24h ngày 26/11/2018 - theo <a href="https://www.blockchain.com/en/pools" target="_blank">Blockchain.info</a></p>
 </div>
 
@@ -60,7 +60,7 @@ Bởi vì đường truyền có độ trễ nên khi bạn đào được 1 blo
 - Lúc này, nhánh tối đã dài hơn nhánh sáng. Sau khi nhận được xe Klara, đối tượng mới thực hiện phát tán nhánh tối ra mạng lưới. Các node đồng loạt chấp nhận nhánh tối, do nó dài hơn. Trong nhánh tối không có giao dịch A, nên tiền vẫn còn trong tài khoản. Trong khi hàng thì đã nhận rồi!
 
 <div class="media">
-  <img src="/assets/img/attack51.jpg">
+  <img src="/tk/assets/img/attack51.jpg">
   <p class="caption">Áo đỏ chiếm 51% âm thầm đào rồi phát tán khi đã dài hơn nhánh chính</p>
 </div>
 

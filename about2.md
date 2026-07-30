@@ -112,7 +112,7 @@ layout: default
     <div class="features-wrapper">
         <div class="feature-row">
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/thi.jpg)">
+                <div class="image" style="background-image:url(/tk/assets/img/thi.jpg)">
                     <h5>Thi</h5>
                 </div>
                 <div class="text">
@@ -120,7 +120,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image contain" style="background-image:url(/assets/img/huy.png)">
+                <div class="image contain" style="background-image:url(/tk/assets/img/huy.png)">
                     <h5>Huy</h5>
                 </div>
                 <div class="text">
@@ -128,7 +128,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image contain" style="background-image:url(/assets/img/luong.png)">
+                <div class="image contain" style="background-image:url(/tk/assets/img/luong.png)">
                     <h5>Luong</h5>
                 </div>
                 <div class="text">
@@ -138,7 +138,7 @@ layout: default
         </div>
         <div class="feature-row">
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url('/assets/img/duc.jpg')">
+                <div class="image" style="background-image:url('/tk/assets/img/duc.jpg')">
                     <h5>Duc</h5>
                 </div>
                 <div class="text">
@@ -146,7 +146,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/tin.jpg);background-position: top">
+                <div class="image" style="background-image:url(/tk/assets/img/tin.jpg);background-position: top">
                     <h5>Tin</h5>
                 </div>
                 <div class="text">
@@ -154,7 +154,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/viet.jpg);background-position: top">
+                <div class="image" style="background-image:url(/tk/assets/img/viet.jpg);background-position: top">
                     <h5>Viet</h5>
                 </div>
                 <div class="text">
@@ -164,7 +164,7 @@ layout: default
         </div>
         <div class="feature-row">
             <div class="feature-card portrait">
-                <div class="image contain" style="background-image:url('/assets/img/duong.jpg')">
+                <div class="image contain" style="background-image:url('/tk/assets/img/duong.jpg')">
                     <h5>Duong</h5>
                 </div>
                 <div class="text">
@@ -172,7 +172,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/giang.jpg)">
+                <div class="image" style="background-image:url(/tk/assets/img/giang.jpg)">
                     <h5>Giang</h5>
                 </div>
                 <div class="text">
@@ -180,7 +180,7 @@ layout: default
                 </div>
             </div>
             <div class="feature-card portrait">
-                <div class="image" style="background-image:url(/assets/img/you.png)">
+                <div class="image" style="background-image:url(/tk/assets/img/you.png)">
                     <h5>Join us</h5>
                 </div>
                 <div class="text">

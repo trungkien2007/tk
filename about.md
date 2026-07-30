@@ -1,7 +1,7 @@
 ---
 title: Giới thiệu
 layout: default
-image: "/assets/img/dapp.png"
+image: "/tk/assets/img/dapp.png"
 ---
 
 <style>
@@ -137,7 +137,7 @@ image: "/assets/img/dapp.png"
     
     .quote-section {
         background-color: rgb(241, 241, 240);
-        background-image: url("/assets/img/pattern1.png");
+        background-image: url("/tk/assets/img/pattern1.png");
     }
     
     figure.testimonial {
